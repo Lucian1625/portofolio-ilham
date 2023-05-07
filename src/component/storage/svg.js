@@ -4,7 +4,7 @@ function Icon() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      className="h-12 w-12"
+      className="h-8 w-8"
       href="https://www.instagram.com/ilhmahsn_/"
       enableBackground="new 0 0 291.319 291.319"
       version="1.1"

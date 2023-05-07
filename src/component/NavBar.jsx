@@ -11,8 +11,7 @@ const NavBar = () => {
                         <a rel="stylesheet" href="#Home" >Home</a>
                     </li>
                     <li className="hover:text-shushime transition duration-400 ease-in-out">
-                        <a rel="stylesheet" href="#About" >About</a>
-                        
+                        <a rel="stylesheet" href="#About" >About</a>                        
                     </li>
                     <li className="hover:text-shushime transition duration-400 ease-in-out">
                         <a rel="stylesheet" href="#Skills" >Skills</a>

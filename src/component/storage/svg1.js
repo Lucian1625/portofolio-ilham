@@ -5,7 +5,7 @@ function Icon() {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       
-      className="h-12 w-12"
+      className="h-8 w-8"
       enableBackground="new 0 0 112.197 112.197"
       version="1.1"
       viewBox="0 0 112.197 112.197"
