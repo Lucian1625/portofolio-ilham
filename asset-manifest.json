@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portofolio-ilham/static/css/main.7f46437f.css",
-    "main.js": "/portofolio-ilham/static/js/main.6ef54ebd.js",
+    "main.css": "/portofolio-ilham/static/css/main.6f04efb2.css",
+    "main.js": "/portofolio-ilham/static/js/main.b0ed310e.js",
     "static/media/me1.png": "/portofolio-ilham/static/media/me1.524f0df274bbdf38dd08.png",
     "static/media/me2.jpg": "/portofolio-ilham/static/media/me2.0d725df9bfe99edbc32f.jpg",
     "index.html": "/portofolio-ilham/index.html",
-    "main.7f46437f.css.map": "/portofolio-ilham/static/css/main.7f46437f.css.map",
-    "main.6ef54ebd.js.map": "/portofolio-ilham/static/js/main.6ef54ebd.js.map"
+    "main.6f04efb2.css.map": "/portofolio-ilham/static/css/main.6f04efb2.css.map",
+    "main.b0ed310e.js.map": "/portofolio-ilham/static/js/main.b0ed310e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f46437f.css",
-    "static/js/main.6ef54ebd.js"
+    "static/css/main.6f04efb2.css",
+    "static/js/main.b0ed310e.js"
   ]
 }
