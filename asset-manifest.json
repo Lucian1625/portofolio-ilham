@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/portofolio-ilham/static/css/main.0538b752.css",
-    "main.js": "/portofolio-ilham/static/js/main.df59593d.js",
+    "main.css": "/portofolio-ilham/static/css/main.eb66ec1f.css",
+    "main.js": "/portofolio-ilham/static/js/main.5a3a4be9.js",
     "static/media/meNew.png": "/portofolio-ilham/static/media/meNew.d6667e6047b012f5a859.png",
+    "static/media/AboutAsset2.png": "/portofolio-ilham/static/media/AboutAsset2.2dce231fbf8c94f0febb.png",
     "static/media/AboutAsset.png": "/portofolio-ilham/static/media/AboutAsset.243483479aa0e31f4411.png",
+    "static/media/PortofolioDesgin.jpeg": "/portofolio-ilham/static/media/PortofolioDesgin.589fc0390d6102f78753.jpeg",
+    "static/media/PortofolioCode.jpeg": "/portofolio-ilham/static/media/PortofolioCode.3a4a738f6e86038a180e.jpeg",
     "index.html": "/portofolio-ilham/index.html",
-    "main.0538b752.css.map": "/portofolio-ilham/static/css/main.0538b752.css.map",
-    "main.df59593d.js.map": "/portofolio-ilham/static/js/main.df59593d.js.map"
+    "main.eb66ec1f.css.map": "/portofolio-ilham/static/css/main.eb66ec1f.css.map",
+    "main.5a3a4be9.js.map": "/portofolio-ilham/static/js/main.5a3a4be9.js.map"
   },
   "entrypoints": [
-    "static/css/main.0538b752.css",
-    "static/js/main.df59593d.js"
+    "static/css/main.eb66ec1f.css",
+    "static/js/main.5a3a4be9.js"
   ]
 }
