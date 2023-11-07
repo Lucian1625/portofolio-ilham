@@ -38,14 +38,14 @@ const Blog = () => {
           <div className="mx-auto max-w-2xl py-14 scroll-ml-6 snap-start sm:py-24 lg:max-w-none lg:py-32">
             <h2 className="text-2xl mb-4 font-bold text-rose-white">My Blog</h2>
 
-            <div className="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0">
+            <div className="mt-6 space-y-12 lg:grid lg:grid-cols-3 lg:gap-x-6 lg:space-y-0 drop-shadow-lg shadow-lg">
               {callouts.map((callout) => (
                 <div key={callout.name} className="group rounded-lg bg-white relative">
-                  <div className="relative h-92 w-full overflow-hidden rounded-lg bg-white group-hover:opacity-75 sm:aspect-w-2 sm:aspect-h-1 sm:h-64 lg:aspect-w-1 lg:aspect-h-1">
+                  <div className="relative h-92 w-full overflow-hidden rounded-lg bg-white  group-hover:opacity-90 sm:aspect-w-2 sm:aspect-h-1 sm:h-64 lg:aspect-w-1 lg:aspect-h-1">
                     <img
                       src={callout.imageSrc}
                       alt={callout.imageAlt}
-                      className="h-full w-full object-cover object-center"
+                      className="h-full w-full group-hover:scale-125 transition duration-150 ease-in-out  object-cover object-center"
                     />
                   </div>
                   <h3 className="mt-6 ml-4 text-sm text-gray-500">

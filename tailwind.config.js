@@ -28,6 +28,9 @@ module.exports = {
       
       fontFamily: {
         'mono': ['Shrikhand'],
+      },
+      spacing: {
+        '128': '32rem',
       }
       
     },

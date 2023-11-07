@@ -19,7 +19,7 @@ const Works = () => {
           </div>
           <div className='p-3'>
             <div className='lg:mt-4 py-2 text-center text-xl text-black'>IT Suport</div>
-            <div className="text-center text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+            <div className="text-center lg:text-base text-xs">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
           </div>
         </div>
         <div  className="text-center lg:h-[255px] h-[216px] bg-white shadow-lg">
@@ -30,7 +30,7 @@ const Works = () => {
           </div>
           <div className='p-3'>
             <div className='lg:mt-4 py-2 text-center text-xl text-black'>Web Desgin</div>
-            <div className="text-center text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+            <div className="text-center lg:text-base text-xs">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
           </div>
         </div>
         <div className="text-center lg:h-[255px] h-[216px] bg-white shadow-lg">
@@ -41,7 +41,7 @@ const Works = () => {
           </div>
           <div className='p-3'>
             <div className='lg:mt-4 py-2 text-center text-xl text-black'>Creative Desgin</div>
-            <div className="text-center text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+            <div className="text-center lg:text-base text-xs">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
           </div>
         </div>
         <div className="text-center lg:h-[255px] h-[216px] bg-white shadow-lg">
@@ -52,7 +52,7 @@ const Works = () => {
           </div>
           <div className='p-3'>
             <div className='lg:mt-4 py-2 text-center text-xl text-black'>Devplopment</div>
-            <div className="text-center text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+            <div className="text-center lg:text-base text-xs">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
           </div>
         </div>
         <div className="text-center lg:h-[255px] h-[216px] bg-white shadow-lg">
@@ -63,7 +63,7 @@ const Works = () => {
           </div>
           <div className='p-3'>
             <div className='lg:mt-4 py-2 text-center text-xl text-black'>Branding</div>
-            <div className="text-center text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+            <div className="text-center lg:text-base text-xs">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
           </div>
         </div>
         <div className="text-center lg:h-[255px] h-[216px] bg-white shadow-lg">
@@ -74,7 +74,7 @@ const Works = () => {
           </div>
           <div className='p-3'>
             <div className='lg:mt-4 py-2 text-center text-xl text-black'>Mobile App Desgin</div>
-            <div className="text-center text-base">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
+            <div className="text-center lg:text-base text-xs">Lorem ipsum dolor sit amet consectetur adipisicing elit.</div>
           </div>
         </div>
       </div>

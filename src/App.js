@@ -5,14 +5,12 @@ import NavBar from "./component/NavBar";
 import Skils from "./component/Skils";
 import Blog from "./component/Blog";
 import Works from "./component/Works";
-import Contact from "./component/Contact";
-import AOS from "aos";
-import "aos/dist/aos.css";
+import ContactMe from "./component/ContactMe";
+import Footer from "./component/Footer";
+// import Test from "./component/test";
 // import { render } from "@testing-library/react";
 
 function App() {
-  AOS.init();
-  AOS.refresh();
   // render()
   return (
     <>
@@ -55,10 +53,13 @@ function App() {
             <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z"></path>
           </svg>
         </div>
-        <div className="snap-always snap-start">
-          <Contact />
+
+        <div className="snap-always bg-blue-kc snap-start">
+          <ContactMe className="z-10" />
+          <Footer className="z-10" />
         </div>
       </div>
+      {/* <Test /> */}
     </>
   );
 }
